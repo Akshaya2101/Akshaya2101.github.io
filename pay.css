@@ -78,16 +78,12 @@ body{
       text-align: center;
       font-weight:bolder;
   }
-  .but:hover{
-    background-color:#ddd;
-    padding:14px 28px;
-
-    color: darkgray;
-}  
+  
+ 
 .b{
-    padding: 100px 100px 100px 100px;
+   float: left;
+ text-align: center;
+    padding: 1px 100px 1px;
 
-}
-.b :hover{
-    background-color: honeydew;
+
 }
